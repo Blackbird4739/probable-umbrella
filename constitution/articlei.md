@@ -1,3 +1,10 @@
+---
+layout: default
+title: Article I
+parent: The Constitution of the United States of America
+nav_order: 2
+---
+
 # Article I
 
 ## Section 1
