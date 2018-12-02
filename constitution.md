@@ -7,6 +7,3 @@ permalink: /constitution
 ---
 
 # The Constitution of the United States of America
-
-## [Preamble](/constitution/preamble.md)
-## [Article I](/constitution/articlei.md)
