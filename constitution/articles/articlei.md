@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Article I
-parent: The Constitution of the United States of America
+parent: Articles
 nav_order: 2
 ---
 

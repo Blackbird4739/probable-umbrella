@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amendment I
-parent: The Constitution of the United States of America
+parent: Amendments
 nav_order: 10
 ---
 

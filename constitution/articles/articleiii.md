@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Article III
-parent: The Constitution of the United States of America
+parent: Articles
 nav_order: 4
 ---
 
