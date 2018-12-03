@@ -2,7 +2,7 @@
 layout: default
 title: Article IV
 parent: Articles
-nav_order: 5
+nav_order: 4
 ---
 
 # Article IV

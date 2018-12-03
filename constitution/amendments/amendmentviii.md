@@ -2,7 +2,7 @@
 layout: default
 title: Amendment VIII
 parent: Amendments
-nav_order: 17
+nav_order: 8
 ---
 
 # Amendment VIII

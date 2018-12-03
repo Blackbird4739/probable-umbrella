@@ -2,7 +2,7 @@
 layout: default
 title: Amendment IX
 parent: Amendments
-nav_order: 18
+nav_order: 9
 ---
 
 # Amendment IX

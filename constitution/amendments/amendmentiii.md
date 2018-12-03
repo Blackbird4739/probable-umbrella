@@ -2,7 +2,7 @@
 layout: default
 title: Amendment III
 parent: Amendments
-nav_order: 12
+nav_order: 3
 ---
 
 # Amendment III

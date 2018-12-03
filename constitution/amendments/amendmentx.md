@@ -2,7 +2,7 @@
 layout: default
 title: Amendment X
 parent: Amendments
-nav_order: 19
+nav_order: 10
 ---
 
 # Amendment X

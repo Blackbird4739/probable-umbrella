@@ -2,7 +2,7 @@
 layout: default
 title: Article VII
 parent: Articles
-nav_order: 8
+nav_order: 7
 ---
 
 # Article VII

@@ -2,7 +2,7 @@
 layout: default
 title: Signers
 parent: The Constitution of the United States of America
-nav_order: 9
+nav_order: 3
 ---
 
 #Signers

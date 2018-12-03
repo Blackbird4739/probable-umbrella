@@ -2,7 +2,7 @@
 layout: default
 title: Article V
 parent: Articles
-nav_order: 6
+nav_order: 5
 ---
 
 # Article V

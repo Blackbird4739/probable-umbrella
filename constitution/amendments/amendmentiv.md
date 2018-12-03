@@ -2,7 +2,7 @@
 layout: default
 title: Amendment IV
 parent: Amendments
-nav_order: 13
+nav_order: 4
 ---
 
 # Amendment IV

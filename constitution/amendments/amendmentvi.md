@@ -2,7 +2,7 @@
 layout: default
 title: Amendment VI
 parent: Amendments
-nav_order: 15
+nav_order: 6
 ---
 
 # Amendment VI

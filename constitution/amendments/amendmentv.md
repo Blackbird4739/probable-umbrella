@@ -2,7 +2,7 @@
 layout: default
 title: Amendment V
 parent: Amendments
-nav_order: 14
+nav_order: 5
 ---
 
 # Amendment V

@@ -2,7 +2,7 @@
 layout: default
 title: Amendment VII
 parent: Amendments
-nav_order: 16
+nav_order: 7
 ---
 
 # Amendment VII
