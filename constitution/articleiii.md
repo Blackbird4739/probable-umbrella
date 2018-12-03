@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Article II
+title: Article III
 parent: The Constitution of the United States of America
 nav_order: 4
 ---
