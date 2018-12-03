@@ -2,6 +2,7 @@
 layout: default
 title: Amendment VI
 parent: Amendments
+grand_parent: The Constitution of the United States of America
 nav_order: 6
 ---
 

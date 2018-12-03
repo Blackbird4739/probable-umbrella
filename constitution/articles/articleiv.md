@@ -2,6 +2,7 @@
 layout: default
 title: Article IV
 parent: Articles
+grand_parent: The Constitution of the United States of America
 nav_order: 4
 ---
 

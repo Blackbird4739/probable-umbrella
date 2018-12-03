@@ -2,6 +2,7 @@
 layout: default
 title: Article V
 parent: Articles
+grand_parent: The Constitution of the United States of America
 nav_order: 5
 ---
 
