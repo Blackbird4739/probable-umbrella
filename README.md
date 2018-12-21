@@ -10,3 +10,5 @@ Here's [another file](another-file.md)
 And here's [what happens](newfolder/whathappens.md)
 
 Also, here's my [Github pages site](https://blackbird4739.github.io/probable-umbrella/)
+
+Hmm, I wonder how VS Code will work for this? Let's see!
